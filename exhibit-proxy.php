@@ -5,7 +5,7 @@
  * @author     Sebastian Tramp <tramp@informatik.uni-leipzig.de>
  * @author     Natanael Arndt <arndt@informatik.uni-leipzig.de>
  * @copyright  Copyright (c) 2009–2016, {@link http://aksw.org AKSW}
- * @license    http://opensource.org/licenses/gpl-license.php GNU General Public License (GPL)
+ * @license    https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0) or any later version
  */
 
 class ExhibitItem
