@@ -10,8 +10,10 @@ E.g. to provide HTTPS and the same origin.
 To include the data from Bibsonomy in a page in WordPress, scripts and HTML are needed.
 
 Needed scripts (We include them with the *Scripts n Styles* Plugin):
+```
     <script src="https://api.simile-widgets.org/exhibit/STABLE/exhibit-api.js" type="text/javascript"></script>
     <link href="https://yourdomain.end/exhibit-proxy.php?suffix=tag/aksw&callback=cb" type="application/jsonp" rel="exhibit/data" ex:jsonp-callback="cb" />
+```
 
 Needed libs:
 * JQuery
